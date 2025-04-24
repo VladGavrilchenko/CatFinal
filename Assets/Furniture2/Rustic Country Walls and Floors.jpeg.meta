@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: 6810da3843150694db5236b578a43afb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a30d4e11955a4988b7f02aab3f98c
+      internalID: -355627599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fab3149c152dc544b877ff53f5b5848
+      internalID: 1887046220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95acd202014ee904fb6dd14909c24ce2
+      internalID: -720305722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d394d64fac3cf95408cafdc7088ec642
+      internalID: -707032629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e65dc84e645d9409990b58c7bbcd3f
+      internalID: 549320431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07738fce682e1c4b815b8fd5894b270
+      internalID: -899078958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7372251d44535a4c8cf0517dc8cfed1
+      internalID: 1654997955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_7
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 559.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c87a8e095ce84ea6a02bafa524887
+      internalID: 538317477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada7385a2a735164bb0a15977bb7d97a
+      internalID: -567593736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 466.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c80accba9ebae49b3579ff0dbc54aa
+      internalID: 1651474739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 466.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df2c42a4f3ef014a8955e4f1eb1ced8
+      internalID: -1311621401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 466.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d89fe4cb22452c4688b8cc2fb233d1a
+      internalID: -1553582673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 466.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e3f0b1de0da54fbe56794cdfb7475
+      internalID: -1972784824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 466.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632e2f63e1ebb943b9e3adff2291f4f
+      internalID: 490319584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_14
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 467
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa027a7f68ae474a82ada4bc3f96ffe
+      internalID: -1732683827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 466.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a73658fb011cf47a0e65e8e8d60b44
+      internalID: 1601827334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e231132461804468a98852ba508f95
+      internalID: 228723195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e05212d865884cb1a5b455e3cdeeb
+      internalID: -1684362074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226fbbda250e9a94e99a48284dc4b372
+      internalID: 1041437066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad7c46142cb0c14c94d179bda52bf87
+      internalID: -843899090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e08b0581a31643a2aa7c048a2faa3
+      internalID: 2043870397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85f61e2686a5d7469736917b85bd52c
+      internalID: 1720331168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8a645103920094c8188274f045f04f
+      internalID: 1528249619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 373.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9cc1751eaac448a1f839cca2d0111
+      internalID: 336906819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b5a413e3df964196da93ce4e48d7a
+      internalID: 775148482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f96ac11e71074cb2ba238ea00c27b
+      internalID: -515932085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e2d99488d11fa4baeb632edb7122a7
+      internalID: -548617091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1978128881b962d42b60f9045c11ca39
+      internalID: -1814549550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef10a6e25188214eb4a59bfd4463c1d
+      internalID: 1817169826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554eb03fc60c8db44a79f40c99716687
+      internalID: 690886528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98e72a7c2e90ca4daa171b2cc51a8f0
+      internalID: 1648301699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_31
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 280.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248cae050d114b4d89b561c7ea8a6e6
+      internalID: 55843993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5061305a0992bff42be26f3f1a987a2d
+      internalID: -1058858430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db46f522ce93648ad829e27a4f8b13
+      internalID: -1583490479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0514e67ef95024f8c4dfc8d7ca5f39
+      internalID: -823974750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281969056a450f149934f31c4899503a
+      internalID: 606528149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e667a72040e0854e936944259499cdc
+      internalID: -188517911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4ff8bab020c042972389c6139b9a5
+      internalID: -1822289944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb3f812624f87488bf93680f591d15
+      internalID: 1234243261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_39
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 187.7143
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d928a4cd567c284ea82bfe0aa7e3300
+      internalID: 1119319840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ca733c3cdb0e49ab566c678426225
+      internalID: -1077862989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff5a8d31c30f34797dfec89d1b675a
+      internalID: -1005534038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d66909319d9a4b9346619c2ffb4aa
+      internalID: 5231004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143a582e06f35284296660fd89329df6
+      internalID: 939815431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_44
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f284e7234d597e04bb5bd17d5ac90da2
+      internalID: 1362675605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_45
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf8d0a13f042b41ab334a3ffc8e1a5
+      internalID: -795532345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c29a13bce7284ca266db5a38536d6
+      internalID: -706702692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_47
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 94.71429
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d44af245b341442abea54224f24ece
+      internalID: -1428517206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c55e538b7901499587554138dc0a2
+      internalID: 2103053453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23df61660233ba44aa6a01e7a27840e0
+      internalID: -189319870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1364933f120a949a08574cfd1e5a82
+      internalID: -688275584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d5fa178b9d364c87e6219f5f81bcc
+      internalID: 943634729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afdf5e928aab244480a6dd22beb52a0
+      internalID: -486363222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc6a7f5a3d0b147ba0fff152913a76
+      internalID: 1770418766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289bceeca929d7439552b804b620315
+      internalID: -733091373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rustic Country Walls and Floors_55
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1.7142868
+        width: 92
+        height: 93.28571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef86d43f93737249a793a9fc1751c42
+      internalID: 1463514100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rustic Country Walls and Floors_0: -355627599
+      Rustic Country Walls and Floors_1: 1887046220
+      Rustic Country Walls and Floors_10: -1311621401
+      Rustic Country Walls and Floors_11: -1553582673
+      Rustic Country Walls and Floors_12: -1972784824
+      Rustic Country Walls and Floors_13: 490319584
+      Rustic Country Walls and Floors_14: -1732683827
+      Rustic Country Walls and Floors_15: 1601827334
+      Rustic Country Walls and Floors_16: 228723195
+      Rustic Country Walls and Floors_17: -1684362074
+      Rustic Country Walls and Floors_18: 1041437066
+      Rustic Country Walls and Floors_19: -843899090
+      Rustic Country Walls and Floors_2: -720305722
+      Rustic Country Walls and Floors_20: 2043870397
+      Rustic Country Walls and Floors_21: 1720331168
+      Rustic Country Walls and Floors_22: 1528249619
+      Rustic Country Walls and Floors_23: 336906819
+      Rustic Country Walls and Floors_24: 775148482
+      Rustic Country Walls and Floors_25: -515932085
+      Rustic Country Walls and Floors_26: -548617091
+      Rustic Country Walls and Floors_27: -1814549550
+      Rustic Country Walls and Floors_28: 1817169826
+      Rustic Country Walls and Floors_29: 690886528
+      Rustic Country Walls and Floors_3: -707032629
+      Rustic Country Walls and Floors_30: 1648301699
+      Rustic Country Walls and Floors_31: 55843993
+      Rustic Country Walls and Floors_32: -1058858430
+      Rustic Country Walls and Floors_33: -1583490479
+      Rustic Country Walls and Floors_34: -823974750
+      Rustic Country Walls and Floors_35: 606528149
+      Rustic Country Walls and Floors_36: -188517911
+      Rustic Country Walls and Floors_37: -1822289944
+      Rustic Country Walls and Floors_38: 1234243261
+      Rustic Country Walls and Floors_39: 1119319840
+      Rustic Country Walls and Floors_4: 549320431
+      Rustic Country Walls and Floors_40: -1077862989
+      Rustic Country Walls and Floors_41: -1005534038
+      Rustic Country Walls and Floors_42: 5231004
+      Rustic Country Walls and Floors_43: 939815431
+      Rustic Country Walls and Floors_44: 1362675605
+      Rustic Country Walls and Floors_45: -795532345
+      Rustic Country Walls and Floors_46: -706702692
+      Rustic Country Walls and Floors_47: -1428517206
+      Rustic Country Walls and Floors_48: 2103053453
+      Rustic Country Walls and Floors_49: -189319870
+      Rustic Country Walls and Floors_5: -899078958
+      Rustic Country Walls and Floors_50: -688275584
+      Rustic Country Walls and Floors_51: 943634729
+      Rustic Country Walls and Floors_52: -486363222
+      Rustic Country Walls and Floors_53: 1770418766
+      Rustic Country Walls and Floors_54: -733091373
+      Rustic Country Walls and Floors_55: 1463514100
+      Rustic Country Walls and Floors_6: 1654997955
+      Rustic Country Walls and Floors_7: 538317477
+      Rustic Country Walls and Floors_8: -567593736
+      Rustic Country Walls and Floors_9: 1651474739
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

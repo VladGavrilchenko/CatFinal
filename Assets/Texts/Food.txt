@@ -1,0 +1,12 @@
+Water
+Coffee
+GasWater
+Chicken
+Beef
+PorkChop
+DryKorm
+WetKorm
+RedFish
+MeatStick
+DryFish
+Shprotiki
